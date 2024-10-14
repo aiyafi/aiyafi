@@ -6,7 +6,7 @@
 <a href="https://k9fox.works/" target="_blank">k9fox.works</a>
 <br>
 
-[![@aiyafi's Holopin board](https://holopin.me/aiyafi)](https://holopin.io/@aiyafi)
+[![An image of @aiyafi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiyafi)](https://holopin.io/@aiyafi)
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
