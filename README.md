@@ -10,8 +10,6 @@ Explore more about me and my projects:
 [![Holopin Badges](https://holopin.me/aiyafi)](https://holopin.io/@aiyafi)  
 Click to view my full Holopin profile!
 
----
-
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ai-yafi/)  
 - [Portfolio](https://k9fox.works/)  
