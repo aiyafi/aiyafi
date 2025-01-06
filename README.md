@@ -13,10 +13,11 @@ Click to view my full Holopin profile!
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/ai-yafi/)
-- [Portfolio](https://k9fox.works/)
-- [Email](mailto:yaf@k9fox.works)
-- [GitHub](https://github.com/k9fox)
+- [LinkedIn](https://linkedin.com/in/ai-yafi/)  
+- [Portfolio](https://k9fox.works/)  
+- [Resume](https://cv.k9fox.works/)  
+- [Email](mailto:yaf@k9fox.works)  
+- [GitHub](https://github.com/k9fox)  
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
