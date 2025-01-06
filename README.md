@@ -13,7 +13,7 @@
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ai-yafi/)
 - [Portfolio](https://k9fox.works/)
-- [Email](mailto:yaf@k9fox.worksli)
+- [Email](mailto:yaf@k9fox.works)
 - [GitHub](https://github.com/k9fox)
 
 <!--
