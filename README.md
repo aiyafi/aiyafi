@@ -15,7 +15,8 @@ Click to view my full Holopin profile!
 - [Portfolio](https://k9fox.works/)  
 - [Resume](https://cv.k9fox.works/)  
 - [Email](mailto:yaf@k9fox.works)  
-- [GitHub](https://github.com/k9fox)  
+- [GitHub](https://github.com/k9fox)
+- [Dev.to](https://dev.to/aiyafi)   
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
