@@ -8,6 +8,14 @@
 
 [![An image of @aiyafi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiyafi)](https://holopin.io/@aiyafi)
 
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/ai-yafi/)
+- [Portfolio](https://k9fox.works/)
+- [Email](mailto:yaf@k9fox.worksli)
+- [GitHub](https://github.com/k9fox)
+
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
