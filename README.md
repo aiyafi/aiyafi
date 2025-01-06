@@ -16,7 +16,7 @@ Click to view my full Holopin profile!
 - <a href="https://cv.k9fox.works/" target="_blank">Resume</a>  
 - <a href="https://dev.to/aiyafi" target="_blank">Dev.to</a>  
 - <a href="mailto:yaf@k9fox.works" target="_blank">Email</a>  
-- <a href="https://github.com/k9fox" target="_blank">GitHub</a>  
+- <a href="https://github.com/aiyafi" target="_blank">GitHub</a>  
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
