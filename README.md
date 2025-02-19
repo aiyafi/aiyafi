@@ -7,7 +7,7 @@
 
 ## 🌐 Let's Dive Into My World  
 Explore more about me and my projects:  
-<a href="https://k9fox.works/" target="_blank">🔗 k9fox.works</a>
+<a href="https://yafff.tech/" target="_blank">🔗 yafff.tech</a>
 
 ## 🎖️ My Badges  
 [![Holopin Badges](https://holopin.me/aiyafi)](https://holopin.io/@aiyafi)  
