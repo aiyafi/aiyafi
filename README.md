@@ -15,7 +15,7 @@ Click to view my full Holopin profile!
 
 ## 📫 Let's Connect!
 - <a href="https://linkedin.com/in/ai-yafi/" target="_blank">LinkedIn</a>  
-- <a href="https://k9fox.works/" target="_blank">Portfolio</a>  
+- <a href="https://yafff.tech/" target="_blank">Portfolio</a>  
 - <a href="https://cv.k9fox.works/" target="_blank">Resume</a>  
 - <a href="https://dev.to/aiyafi" target="_blank">Dev.to</a>  
 - <a href="mailto:yaf@k9fox.works" target="_blank">Email</a>  
