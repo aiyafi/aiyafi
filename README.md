@@ -18,7 +18,7 @@ Click to view my full Holopin profile!
 - <a href="https://yafff.tech/" target="_blank">Portfolio</a>  
 - <a href="https://cv.yafff.tech/" target="_blank">Resume</a>  
 - <a href="https://dev.to/aiyafi" target="_blank">Dev.to</a>  
-- <a href="mailto:yaf@k9fox.works" target="_blank">Email</a>  
+- <a href="mailto:hello@yafff.tech" target="_blank">Email</a>  
 - <a href="https://github.com/aiyafi" target="_blank">GitHub</a>  
 
 <!--
