@@ -21,9 +21,11 @@ Click to view my full Holopin profile!
 - <a href="mailto:hello@yafff.tech" target="_blank">Email</a>  
 - <a href="https://github.com/aiyafi" target="_blank">GitHub</a>  
 
-<a href="https://open.spotify.com/user/6i9534d09psglt5ivla157gt4?si=81a855b192294b8a">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6i9534d09psglt5ivla157gt4&unique=1" alt="Spotify recently played"/>
-</a>
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/user/6i9534d09psglt5ivla157gt4?si=81a855b192294b8a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6i9534d09psglt5ivla157gt4&unique=1" alt="Spotify recently played"/>
+  </a>
+</div>
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
