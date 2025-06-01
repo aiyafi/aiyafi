@@ -4,9 +4,6 @@
 
 </div>
 
-### ✨ About Me
-
-
 ### 🌐 Let's Dive Into My World
 Explore more about me and my projects:
 <a href="https://yafff.tech/" target="_blank">🔗 yafff.tech</a>
@@ -17,7 +14,7 @@ Explore more about me and my projects:
     <img src="https://holopin.me/aiyafi" alt="Holopin Badges for aiyafi"/>
   </a>
   <br/>
-  *Click to view my full Holopin profile!*
+  <i>Click to view my full Holopin profile!</i>
 </div>
 
 ### 📫 Let's Connect!
