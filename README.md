@@ -4,28 +4,14 @@
 
 </div>
 
----
-
 ### ✨ About Me
-A little bit about yourself here! 🙋‍♀️
 
----
 
 ### 🌐 Let's Dive Into My World
 Explore more about me and my projects:
 <a href="https://yafff.tech/" target="_blank">🔗 yafff.tech</a>
 
----
-
-### 🛠️ My Tech Stack & Tools
-I love working with: [List your key technologies or a sentence about your tech preferences here!]
-
----
-
-### 📊 My GitHub Stats
----
-
-### 🎖️ My Badges
+### 🎖️ My Digital Badges
 <div align="center">
   <a href="https://holopin.io/@aiyafi" target="_blank">
     <img src="https://holopin.me/aiyafi" alt="Holopin Badges for aiyafi"/>
@@ -33,8 +19,6 @@ I love working with: [List your key technologies or a sentence about your tech p
   <br/>
   *Click to view my full Holopin profile!*
 </div>
-
----
 
 ### 📫 Let's Connect!
 Fancy a chat or want to collaborate? Reach out! 💌
@@ -58,8 +42,6 @@ Fancy a chat or want to collaborate? Reach out! 💌
   </a>
 </p>
 
----
-
 ### 🎧 Now Listening On Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/6i9534d09psglt5ivla157gt4" target="_blank">
@@ -67,7 +49,6 @@ Fancy a chat or want to collaborate? Reach out! 💌
   </a>
 </div>
 
----
 
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
