@@ -6,7 +6,7 @@
 
 ### 🌐 Let's Dive Into My World
 Explore more about me and my projects:
-<a href="https://yafff.tech/" target="_blank">🔗 yafff.tech</a>
+<a href="https://k9fox.site/" target="_blank">🔗 k9fox.site</a>
 
 ### 🎖️ My Digital Badges
 <div align="center">
