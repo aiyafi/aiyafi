@@ -39,14 +39,6 @@ Fancy a chat or want to collaborate? Reach out! 💌
   </a>
 </p>
 
-### 🎧 What My Ears Survived Recently
-<div align="center">
-  <a href="https://open.spotify.com/user/6i9534d09psglt5ivla157gt4" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6i9534d09psglt5ivla157gt4&unique=1" alt="Spotify recently played"/>
-  </a>
-</div>
-
-
 <!--
 **aiyafi/aiyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
