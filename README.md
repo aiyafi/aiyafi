@@ -31,7 +31,7 @@ Fancy a chat or want to collaborate? Reach out! 💌
   <a href="https://dev.to/aiyafi" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="mailto:hello@yafff.tech" target="_blank" style="margin: 0 8px;">
+  <a href="mailto:afrizalyafi@icloud.com" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/aiyafi" target="_blank" style="margin: 0 8px;">
