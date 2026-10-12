@@ -25,7 +25,7 @@ Fancy a chat or want to collaborate? Reach out! 💌
   </a>
   <a href="https://k9fox.site/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Portfolio-%23927FBF.svg?&style=for-the-badge&logo=BookStack&logoColor=white" alt="Portfolio"/> </a>
-  <a href="https://cv.yafff.tech/" target="_blank" style="margin: 0 8px;">
+  <a href="https://cv.k9fox.site/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Resume-%23927FBF.svg?&style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://dev.to/aiyafi" target="_blank" style="margin: 0 8px;">
